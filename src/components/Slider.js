@@ -71,7 +71,7 @@ function Slider() {
   return (
     <Container>
       <ImageWrapper>
-        <Image src="https://i.ibb.co/TMmdyhv/image.png" />
+        <Image src="https://i.ibb.co/BVJs5dCt/Gray-and-Black-Minimalist-Fashion-Style-Banner.png" />
       </ImageWrapper>
       <Info>
         <Title>{heroInfo.title}</Title>
